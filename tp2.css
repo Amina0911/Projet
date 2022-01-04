@@ -1,0 +1,23 @@
+body{
+	background-color: #8B0000;
+text-align: center;
+
+}
+
+#container{
+	border: 1px solid whitesmoke; width: 20%; height:250PX;  
+	border-radius: 5%;
+position: relative;
+left: 40%;
+
+}
+form{
+	margin-top: 10%;
+}
+
+.C:hover{
+color: greenyellow;
+}
+#connect{
+	cursor: pointer;
+}
